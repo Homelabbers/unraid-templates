@@ -5,7 +5,7 @@
   <Registry>https://registry.hub.docker.com/u/gitea/gitea/</Registry>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
-  <Support>https://github.com/Homelabbers/unraid-templates/issues/new?assignees=&labels=Template+Request&projects=&template=template-request.md&title=Community+Application+Template+Request+-+%3Capplication+name%3E</Support>
+  <Support>https://github.com/Homelabbers/unraid-templates/issues/new?assignees=&amp;labels=Template+Request&amp;projects=&amp;template=template-request.md&amp;title=Community+Application+Template+Request+-+%3Capplication+name%3E</Support>
   <Overview>Gitea: Git with a cup of tea - The goal of this project is to make the easiest, fastest, and most painless way of setting up a self-hosted Git service. Using Go, this can be done with an independent binary distribution across all platforms which Go supports, including Linux, macOS, and Windows on x86, amd64, ARM and PowerPC architectures. Want to try it before doing anything else? Do it with the online demo! This project has been forked from Gogs.</Overview>
   <Category>Backup: Cloud: Productivity: Tools:</Category>
   <WebUI>http://[IP]:[PORT:3000]</WebUI>
