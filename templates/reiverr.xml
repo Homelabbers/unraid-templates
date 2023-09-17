@@ -5,7 +5,7 @@
   <Registry>https://github.com/aleksilassila/reiverr/pkgs/container/reiverr</Registry>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
-  <Support>https://github.com/Homelabbers/unraid-templates/issues/new?assignees=&labels=Template+Request&projects=&template=template-request.md&title=Community+Application+Template+Request+-+%3Capplication+name%3E</Support>
+  <Support>https://github.com/Homelabbers/unraid-templates/issues/new?assignees=&amp;labels=Template+Request&amp;projects=&amp;template=template-request.md&amp;title=Community+Application+Template+Request+-+%3Capplication+name%3E</Support>
   <Project> https://github.com/aleksilassila/reiverr</Project>
   <Overview>Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr</Overview>
   <Category>Backup: Cloud: Productivity: Tools:</Category>
