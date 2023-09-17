@@ -5,7 +5,7 @@
   <Registry>https://hub.docker.com/r/azukaar/cosmos-server</Registry>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
-  <Support>https://github.com/Homelabbers/unraid-templates/issues/new?assignees=&labels=Template+Request&projects=&template=template-request.md&title=Community+Application+Template+Request+-+%3Capplication+name%3E</Support>
+  <Support>https://github.com/Homelabbers/unraid-templates/issues/new?assignees=&amp;labels=Template+Request&amp;projects=&amp;template=template-request.md&amp;title=Community+Application+Template+Request+-+%3Capplication+name%3E</Support>
   <Overview>Secure and Easy Self-hosted platform. Take control of your data and privacy without sacrificing security and stability.</Overview>
   <Category>Productivity: Tools:</Category>
   <WebUI>http://[IP]:[PORT:80]</WebUI>
