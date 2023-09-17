@@ -5,7 +5,7 @@
   <Registry>https://hub.docker.com/r/phalcode/gamevault-backend</Registry>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
-  <Support>https://github.com/Homelabbers/unraid-templates/issues/new?assignees=&labels=Template+Request&projects=&template=template-request.md&title=Community+Application+Template+Request+-+%3Capplication+name%3E</Support>
+  <Support>https://github.com/Homelabbers/unraid-templates/issues/new?assignees=&amp;labels=Template+Request&amp;projects=&amp;template=template-request.md&amp;title=Community+Application+Template+Request+-+%3Capplication+name%3E</Support>
   <Project>https://github.com/Phalcode/gamevault-backend</Project>
   <Overview>GameVault is an innovative gaming platform providing a self-hosted, source-available alternative to popular gaming platforms. It allows you and your friends to enjoy playing and organizing games stored on your own file server.</Overview>
   <Category>Productivity: Tools:</Category>
