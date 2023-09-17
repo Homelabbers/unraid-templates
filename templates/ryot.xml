@@ -5,7 +5,7 @@
   <Registry>https://github.com/IgnisDa/ryot/pkgs/container/ryot</Registry>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
-  <Support>https://github.com/Homelabbers/unraid-templates/issues/new?assignees=&labels=Template+Request&projects=&template=template-request.md&title=Community+Application+Template+Request+-+%3Capplication+name%3E</Support>
+  <Support>https://github.com/Homelabbers/unraid-templates/issues/new?assignees=&amp;labels=Template+Request&amp;projects=&amp;template=template-request.md&amp;title=Community+Application+Template+Request+-+%3Capplication+name%3E</Support>
   <Project>https://github.com/IgnisDa/ryot</Project>
   <Overview>Ryot (Roll Your Own Tracker), pronounced "riot", aims to be the only self hosted tracker you will ever need!
   
